@@ -9,7 +9,3 @@ in the house
 en los cambios se aprenden nuevas experiencias
 
 aprendiendo a utilizar git
-
-js
-
-seg
